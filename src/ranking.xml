@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ranking machine="Agito">
+	<player username="Amil" password="Champion">
+		<points>
+			10
+		</points>
+	</player>
+	<player username="Acil" password="Kalselu">
+		<points>
+			90
+		</points>
+	</player>
+	<player username="Christ" password="Lamoer">
+		<points>
+			20
+		</points>
+	</player>
+	<player username="Alsimie" password="Megert">
+		<points>
+			80
+		</points>
+	</player>
+	<player username="Vilnis" password="Cals">
+		<points>
+			30
+		</points>
+	</player>
+	<player username="Soumer" password="Bendfe">
+		<points>
+			70
+		</points>
+	</player>
+	<player username="Keris" password="Kased">
+		<points>
+			40
+		</points>
+	</player>
+	<player username="Tomie" password="Lecers">
+		<points>
+			60
+		</points>
+	</player>
+	<player username="Helsd" password="Zegaqz">
+		<points>
+			100
+		</points>
+	</player>
+</ranking>

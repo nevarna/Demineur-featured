@@ -1,0 +1,2987 @@
+IP : 127.0.0.1 | IPSERV : 127.0.0.1
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#DE#DE
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#DE#0
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : DE mdp : DE -> 0
+listJoueur pseudo : DE mdp : DE -> 0 true
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#0#0
+HOST SQRD#0#0#-1#-1#DE
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#5#5
+HOST SQRD#5#5#3#3#DE
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#7#7
+HOST SQRD#7#7#-1#-1#DE
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#8#8
+HOST SQRD#8#8#2#2#DE
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#1
+HOST SQRD#0#1#2#2#DE
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#1#0
+HOST SQRD#1#0#1#1#DE
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : null
+IP : 127.0.0.1 | IPSERV : 127.0.0.1
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#DE#DE
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#DE#0
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : DE mdp : DE -> 0
+listJoueur pseudo : DE mdp : DE -> 0 true
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+IP : 127.0.0.1 | IPSERV : 127.0.0.1
+HOST  : Dans attente Serveur 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#DE#DE
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#DE#0
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : DE mdp : DE -> 0
+listJoueur pseudo : DE mdp : DE -> 0 true
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+IP : 127.0.0.1 | IPSERV : 127.0.0.1
+HOST  : Dans attente Serveur 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#DE#DE
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#DE#0
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : DE mdp : DE -> 0
+listJoueur pseudo : DE mdp : DE -> 0 true
+HOST  : Dans attente Serveur 
+j ai recu : null
+IP : 172.28.47.127 | IPSERV : 172.28.47.127
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+IP : 172.28.47.127 | IPSERV : 172.28.47.127
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : JOIN#adil#champion
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#adil#0
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : adil mdp : champion -> 0
+listJoueur pseudo : adil mdp : champion -> 0 true
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#14#6
+HOST SQRD#14#6#2#2#adil
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#4#5
+HOST SQRD#4#5#1#1#adil
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#alhassane#ll
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#8#3
+HOST SQRD#8#3#1#1#adil
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : erreur lors de la lecture 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : erreur lors de la lecture 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#adil#champion
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+IP : 172.28.47.127 | IPSERV : 172.28.47.127
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#10#6
+HOST SQRD#10#6#2#2#adil
+HOST : je suis dans attente HOST 
+HOST :erreur lors de la lecture 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#12#5
+HOST SQRD#12#5#3#3#adil
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#0
+HOST SQRD#0#0#0#1#adil
+HOST SQRD#1#0#0#1#adil
+HOST SQRD#2#0#0#1#adil
+HOST SQRD#3#0#0#1#adil
+HOST SQRD#4#0#0#1#adil
+HOST SQRD#5#0#1#1#adil
+HOST SQRD#4#1#0#1#adil
+HOST SQRD#3#1#1#1#adil
+HOST SQRD#5#1#1#1#adil
+HOST SQRD#4#2#0#1#adil
+HOST SQRD#3#2#1#1#adil
+HOST SQRD#5#2#1#1#adil
+HOST SQRD#4#3#0#1#adil
+HOST SQRD#3#3#1#1#adil
+HOST SQRD#5#3#0#1#adil
+HOST SQRD#6#3#1#1#adil
+HOST SQRD#5#4#0#1#adil
+HOST SQRD#4#4#0#1#adil
+HOST SQRD#3#4#0#1#adil
+HOST SQRD#2#4#2#2#adil
+HOST SQRD#3#5#2#2#adil
+HOST SQRD#6#4#1#1#adil
+HOST SQRD#5#5#1#1#adil
+HOST SQRD#2#1#1#1#adil
+HOST SQRD#1#1#1#1#adil
+HOST SQRD#0#1#0#1#adil
+HOST SQRD#0#2#1#1#adil
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#Somaya#Benkhemis
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#Somaya#70
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : Somaya mdp : Benkhemis -> 70
+listJoueur pseudo : Somaya mdp : Benkhemis -> 70 true
+HOST  : Dans attente Serveur 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#Tomek#Lecocq
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#2#1
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : erreur lors de la lecture 
+j ai recu : CLIC#0#0
+HOST SQRD#0#0#-1#-1#Somaya
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#adil#champion
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#29
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#2#1
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#0#0
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : erreur lors de la lecture 
+j ai recu : CLIC#29#0
+HOST SQRD#29#0#0#1#Somaya
+HOST SQRD#28#0#0#1#Somaya
+HOST SQRD#27#0#1#1#Somaya
+HOST SQRD#28#1#1#1#Somaya
+HOST SQRD#29#1#1#1#Somaya
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : REGI#Tomek#Lecocq
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#Kevin#Khau
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : IDKC
+HOST : je suis dans attente HOST 
+j ai recu : null
+j ai recu : CLIC#1#0
+HOST SQRD#28#0#0#1#Somaya
+HOST SQRD#28#1#1#1#Somaya
+HOST SQRD#1#0#4#4#Somaya
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#29#15
+HOST SQRD#28#1#1#1#Somaya
+HOST SQRD#29#15#1#1#Somaya
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#Kevin#Khau
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#Kevin#40
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : listeJoueur 1
+HOST : listeJoueur 2
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : Somaya mdp : Benkhemis -> 70
+pseudo : Kevin mdp : Khau -> 40
+listJoueur pseudo : Somaya mdp : Benkhemis -> 70 true
+listJoueur  true
+listJoueur pseudo : Kevin mdp : Khau -> 40 true
+HOST  : Dans attente Serveur 
+j ai recu : JOIN#alhassane#ll
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#alhassane#0
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : listeJoueur 1
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : Somaya mdp : Benkhemis -> 70
+pseudo : Kevin mdp : Khau -> 40
+pseudo : alhassane mdp : ll -> 0
+listJoueur pseudo : Somaya mdp : Benkhemis -> 70 true
+listJoueur pseudo : alhassane mdp : ll -> 0 true
+listJoueur pseudo : Kevin mdp : Khau -> 40 true
+HOST : listeJoueur 2
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#23#3
+HOST SQRD#29#15#1#1#Somaya
+HOST SQRD#23#3#0#3#Kevin
+HOST SQRD#22#3#0#3#Kevin
+HOST SQRD#21#3#0#3#Kevin
+HOST SQRD#20#3#0#3#Kevin
+HOST SQRD#19#3#0#3#Kevin
+HOST SQRD#18#3#0#3#Kevin
+HOST SQRD#17#3#2#6#Kevin
+HOST SQRD#18#4#2#6#Kevin
+HOST SQRD#18#2#0#3#Kevin
+HOST SQRD#17#2#1#3#Kevin
+HOST SQRD#19#2#0#3#Kevin
+HOST SQRD#20#2#0#3#Kevin
+HOST SQRD#21#2#1#3#Kevin
+HOST SQRD#20#1#1#3#Kevin
+HOST SQRD#19#1#2#6#Kevin
+HOST SQRD#18#1#2#6#Kevin
+HOST SQRD#19#4#2#6#Kevin
+HOST SQRD#20#4#2#6#Kevin
+HOST SQRD#21#4#1#3#Kevin
+HOST SQRD#22#4#0#3#Kevin
+HOST SQRD#23#4#0#3#Kevin
+HOST SQRD#24#4#0#3#Kevin
+HOST SQRD#25#4#2#6#Kevin
+HOST SQRD#24#5#0#3#Kevin
+HOST SQRD#23#5#0#3#Kevin
+HOST SQRD#22#5#0#3#Kevin
+HOST SQRD#21#5#1#3#Kevin
+HOST SQRD#22#6#1#3#Kevin
+HOST SQRD#23#6#2#6#Kevin
+HOST SQRD#25#5#1#3#Kevin
+HOST SQRD#24#6#2#6#Kevin
+HOST SQRD#24#3#0#3#Kevin
+HOST SQRD#25#3#3#9#Kevin
+HOST SQRD#24#2#0#3#Kevin
+HOST SQRD#23#2#1#3#Kevin
+HOST SQRD#25#2#3#9#Kevin
+HOST SQRD#24#1#1#3#Kevin
+HOST SQRD#22#2#1#3#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#20#5
+HOST SQRD#23#3#0#3#Kevin
+HOST SQRD#21#3#0#3#Kevin
+HOST SQRD#19#3#0#3#Kevin
+HOST SQRD#17#3#2#6#Kevin
+HOST SQRD#18#2#0#3#Kevin
+HOST SQRD#19#2#0#3#Kevin
+HOST SQRD#21#2#1#3#Kevin
+HOST SQRD#19#1#2#6#Kevin
+HOST SQRD#19#4#2#6#Kevin
+HOST SQRD#21#4#1#3#Kevin
+HOST SQRD#23#4#0#3#Kevin
+HOST SQRD#25#4#2#6#Kevin
+HOST SQRD#23#5#0#3#Kevin
+HOST SQRD#21#5#1#3#Kevin
+HOST SQRD#23#6#2#6#Kevin
+HOST SQRD#24#6#2#6#Kevin
+HOST SQRD#25#3#3#9#Kevin
+HOST SQRD#23#2#1#3#Kevin
+HOST SQRD#24#1#1#3#Kevin
+HOST SQRD#20#5#-1#-3#Kevin
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#Tomek#Lecocq
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#Tomek#60
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : listeJoueur 1
+HOST : listeJoueur 2
+HOST : listeJoueur 3
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : Somaya mdp : Benkhemis -> 70
+pseudo : Kevin mdp : Khau -> 40
+pseudo : alhassane mdp : ll -> 0
+pseudo : Tomek mdp : Lecocq -> 60
+listJoueur pseudo : Somaya mdp : Benkhemis -> 70 true
+listJoueur pseudo : alhassane mdp : ll -> 0 true
+listJoueur pseudo : Kevin mdp : Khau -> 40 true
+listJoueur pseudo : Tomek mdp : Lecocq -> 60 true
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#22#1
+HOST SQRD#21#3#0#3#Kevin
+HOST SQRD#17#3#2#6#Kevin
+HOST SQRD#19#2#0#3#Kevin
+HOST SQRD#19#1#2#6#Kevin
+HOST SQRD#21#4#1#3#Kevin
+HOST SQRD#25#4#2#6#Kevin
+HOST SQRD#21#5#1#3#Kevin
+HOST SQRD#24#6#2#6#Kevin
+HOST SQRD#23#2#1#3#Kevin
+HOST SQRD#20#5#-1#-3#Kevin
+HOST SQRD#22#1#-1#-4#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#23#1
+HOST SQRD#17#3#2#6#Kevin
+HOST SQRD#19#1#2#6#Kevin
+HOST SQRD#25#4#2#6#Kevin
+HOST SQRD#24#6#2#6#Kevin
+HOST SQRD#20#5#-1#-3#Kevin
+HOST SQRD#23#1#2#8#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#1#1
+HOST SQRD#19#1#2#6#Kevin
+HOST SQRD#24#6#2#6#Kevin
+HOST SQRD#23#1#2#8#Kevin
+HOST SQRD#1#1#-1#-4#alhassane
+HOST : je suis dans attente HOST 
+j ai recu : null
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#19#5
+HOST SQRD#24#6#2#6#Kevin
+HOST SQRD#1#1#-1#-4#alhassane
+HOST SQRD#19#5#-1#-3#Tomek
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#Helmi#Zegaya
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#Helmi#100
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : listeJoueur 1
+HOST : listeJoueur 2
+HOST : listeJoueur 3
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : Somaya mdp : Benkhemis -> 70
+pseudo : Kevin mdp : Khau -> 40
+pseudo : alhassane mdp : ll -> 0
+pseudo : Tomek mdp : Lecocq -> 60
+pseudo : Helmi mdp : Zegaya -> 100
+listJoueur pseudo : Somaya mdp : Benkhemis -> 70 true
+listJoueur pseudo : Kevin mdp : Khau -> 40 true
+listJoueur pseudo : Tomek mdp : Lecocq -> 60 true
+listJoueur pseudo : Helmi mdp : Zegaya -> 100 true
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#18#5
+HOST SQRD#1#1#-1#-4#alhassane
+HOST SQRD#18#5#2#8#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#17#1
+HOST SQRD#18#5#2#8#Kevin
+HOST SQRD#17#1#2#8#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#8
+HOST SQRD#17#1#2#8#Tomek
+HOST SQRD#0#8#0#4#Somaya
+HOST SQRD#1#8#0#4#Somaya
+HOST SQRD#2#8#1#4#Somaya
+HOST SQRD#1#9#0#4#Somaya
+HOST SQRD#0#9#0#4#Somaya
+HOST SQRD#0#10#1#4#Somaya
+HOST SQRD#2#9#1#4#Somaya
+HOST SQRD#1#10#1#4#Somaya
+HOST SQRD#1#7#0#4#Somaya
+HOST SQRD#0#7#0#4#Somaya
+HOST SQRD#0#6#0#4#Somaya
+HOST SQRD#1#6#1#4#Somaya
+HOST SQRD#0#5#0#4#Somaya
+HOST SQRD#1#5#2#8#Somaya
+HOST SQRD#0#4#0#4#Somaya
+HOST SQRD#1#4#2#8#Somaya
+HOST SQRD#0#3#0#4#Somaya
+HOST SQRD#1#3#1#4#Somaya
+HOST SQRD#0#2#2#8#Somaya
+HOST SQRD#2#7#0#4#Somaya
+HOST SQRD#3#7#3#12#Somaya
+HOST SQRD#2#6#1#4#Somaya
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#15
+HOST SQRD#0#8#0#4#Somaya
+HOST SQRD#2#8#1#4#Somaya
+HOST SQRD#0#9#0#4#Somaya
+HOST SQRD#2#9#1#4#Somaya
+HOST SQRD#1#7#0#4#Somaya
+HOST SQRD#0#6#0#4#Somaya
+HOST SQRD#0#5#0#4#Somaya
+HOST SQRD#0#4#0#4#Somaya
+HOST SQRD#0#3#0#4#Somaya
+HOST SQRD#0#2#2#8#Somaya
+HOST SQRD#3#7#3#12#Somaya
+HOST SQRD#0#15#0#4#Somaya
+HOST SQRD#1#15#0#4#Somaya
+HOST SQRD#2#15#2#8#Somaya
+HOST SQRD#1#14#1#4#Somaya
+HOST SQRD#0#14#0#4#Somaya
+HOST SQRD#0#13#0#4#Somaya
+HOST SQRD#1#13#1#4#Somaya
+HOST SQRD#0#12#1#4#Somaya
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#3#6
+HOST SQRD#2#8#1#4#Somaya
+HOST SQRD#2#9#1#4#Somaya
+HOST SQRD#0#6#0#4#Somaya
+HOST SQRD#0#4#0#4#Somaya
+HOST SQRD#0#2#2#8#Somaya
+HOST SQRD#0#15#0#4#Somaya
+HOST SQRD#2#15#2#8#Somaya
+HOST SQRD#0#14#0#4#Somaya
+HOST SQRD#1#13#1#4#Somaya
+HOST SQRD#3#6#3#12#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#17#4
+HOST SQRD#2#9#1#4#Somaya
+HOST SQRD#0#4#0#4#Somaya
+HOST SQRD#0#15#0#4#Somaya
+HOST SQRD#0#14#0#4#Somaya
+HOST SQRD#3#6#3#12#Kevin
+HOST SQRD#17#4#2#8#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#3#5
+HOST SQRD#0#4#0#4#Somaya
+HOST SQRD#0#14#0#4#Somaya
+HOST SQRD#17#4#2#8#Tomek
+HOST SQRD#3#5#4#16#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#25#6
+HOST SQRD#0#14#0#4#Somaya
+HOST SQRD#3#5#4#16#Kevin
+HOST SQRD#25#6#1#4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#26#6
+HOST SQRD#3#5#4#16#Kevin
+HOST SQRD#26#6#2#8#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#11#4
+HOST SQRD#26#6#2#8#Tomek
+HOST SQRD#11#4#0#4#Kevin
+HOST SQRD#10#4#0#4#Kevin
+HOST SQRD#9#4#0#4#Kevin
+HOST SQRD#8#4#1#4#Kevin
+HOST SQRD#9#5#1#4#Kevin
+HOST SQRD#9#3#1#4#Kevin
+HOST SQRD#10#5#2#8#Kevin
+HOST SQRD#10#3#2#8#Kevin
+HOST SQRD#12#4#0#4#Kevin
+HOST SQRD#13#4#2#8#Kevin
+HOST SQRD#12#5#2#8#Kevin
+HOST SQRD#12#3#1#4#Kevin
+HOST SQRD#11#5#1#4#Kevin
+HOST SQRD#11#3#1#4#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#26#5
+HOST SQRD#11#4#0#4#Kevin
+HOST SQRD#9#4#0#4#Kevin
+HOST SQRD#9#5#1#4#Kevin
+HOST SQRD#10#5#2#8#Kevin
+HOST SQRD#12#4#0#4#Kevin
+HOST SQRD#12#5#2#8#Kevin
+HOST SQRD#11#5#1#4#Kevin
+HOST SQRD#26#5#3#12#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#26#4
+HOST SQRD#9#4#0#4#Kevin
+HOST SQRD#10#5#2#8#Kevin
+HOST SQRD#12#5#2#8#Kevin
+HOST SQRD#26#5#3#12#Tomek
+HOST SQRD#26#4#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#26#3
+HOST SQRD#10#5#2#8#Kevin
+HOST SQRD#26#5#3#12#Tomek
+HOST SQRD#26#3#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#8#5
+HOST SQRD#26#5#3#12#Tomek
+HOST SQRD#8#5#1#4#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#8#3
+HOST SQRD#8#5#1#4#Kevin
+HOST SQRD#8#3#2#8#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#6#7
+HOST SQRD#8#3#2#8#Kevin
+HOST SQRD#6#7#-1#-4#Helmi
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#1009#0
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#13#3
+HOST SQRD#6#7#-1#-4#Helmi
+HOST SQRD#13#3#1#4#Kevin
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#adil#champion
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#6#8
+HOST SQRD#13#3#1#4#Kevin
+HOST SQRD#6#8#3#12#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#6#9
+HOST SQRD#6#8#3#12#Tomek
+HOST SQRD#6#9#3#12#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#3
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#7#9
+HOST SQRD#6#9#3#12#Tomek
+HOST SQRD#7#9#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#11#6
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#alhassane#ll
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#21#0
+HOST SQRD#7#9#-1#-4#Tomek
+HOST SQRD#21#0#1#5#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#17#10
+HOST SQRD#21#0#1#5#Kevin
+HOST SQRD#17#10#2#10#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#20#0
+HOST SQRD#17#10#2#10#Tomek
+HOST SQRD#20#0#1#5#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#13#13
+HOST SQRD#20#0#1#5#Kevin
+HOST SQRD#13#13#-1#-5#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#19#0
+HOST SQRD#13#13#-1#-5#Tomek
+HOST SQRD#19#0#-1#-5#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#7#12
+HOST SQRD#19#0#-1#-5#Kevin
+HOST SQRD#7#12#1#5#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#7#12
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#12#9
+HOST SQRD#7#12#1#5#Tomek
+HOST SQRD#12#9#3#15#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#24#10
+HOST SQRD#12#9#3#15#Tomek
+HOST SQRD#24#10#3#15#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#21#13
+HOST SQRD#24#10#3#15#Tomek
+HOST SQRD#21#13#3#15#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#16#7
+HOST SQRD#21#13#3#15#Tomek
+HOST SQRD#16#7#1#5#Tomek
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#3#11
+HOST SQRD#16#7#1#5#Tomek
+HOST SQRD#3#11#0#5#Tomek
+HOST SQRD#2#11#0#5#Tomek
+HOST SQRD#1#11#1#5#Tomek
+HOST SQRD#2#12#2#10#Tomek
+HOST SQRD#2#10#1#5#Tomek
+HOST SQRD#4#11#1#5#Tomek
+HOST SQRD#3#12#2#10#Tomek
+HOST SQRD#3#10#1#5#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#18#6
+HOST SQRD#3#11#0#5#Tomek
+HOST SQRD#1#11#1#5#Tomek
+HOST SQRD#2#10#1#5#Tomek
+HOST SQRD#3#12#2#10#Tomek
+HOST SQRD#18#6#2#10#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#19#6
+HOST SQRD#1#11#1#5#Tomek
+HOST SQRD#3#12#2#10#Tomek
+HOST SQRD#19#6#2#10#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#17#6
+HOST SQRD#3#12#2#10#Tomek
+HOST SQRD#17#6#1#5#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#6#14
+HOST SQRD#17#6#1#5#Kevin
+HOST SQRD#6#14#1#5#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#18#7
+HOST SQRD#6#14#1#5#Tomek
+HOST SQRD#18#7#1#5#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#19#7
+HOST SQRD#18#7#1#5#Kevin
+HOST SQRD#19#7#1#5#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#140
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#17#7
+HOST SQRD#19#7#1#5#Kevin
+HOST SQRD#17#7#0#5#Kevin
+HOST SQRD#17#8#1#5#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#10#11
+HOST SQRD#17#7#0#5#Kevin
+HOST SQRD#10#11#-1#-5#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#adil#champion
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#21#11
+HOST SQRD#10#11#-1#-5#Tomek
+HOST SQRD#21#11#2#10#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#16#6
+HOST SQRD#21#11#2#10#Tomek
+HOST SQRD#16#6#3#15#Kevin
+HOST : je suis dans attente HOST 
+HOST : erreur lors de la lecture 
+j ai recu : CLIC#16#5
+HOST SQRD#16#6#3#15#Kevin
+HOST SQRD#16#5#3#15#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#22#8
+HOST SQRD#16#5#3#15#Kevin
+HOST SQRD#22#8#3#15#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#27#8
+HOST SQRD#22#8#3#15#Tomek
+HOST SQRD#27#8#1#5#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#13#10
+HOST SQRD#27#8#1#5#Tomek
+HOST SQRD#13#10#-1#-5#Somaya
+HOST : je suis dans attente HOST 
+HOST : erreur lors de la lecture 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#6
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+HOST : erreur lors de la lecture 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#5#15
+HOST SQRD#13#10#-1#-5#Somaya
+HOST SQRD#5#15#1#4#Somaya
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#20#10
+HOST SQRD#5#15#1#4#Somaya
+HOST SQRD#20#10#2#8#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#19#11
+HOST SQRD#20#10#2#8#Tomek
+HOST SQRD#19#11#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#20#11
+HOST SQRD#19#11#-1#-4#Tomek
+HOST SQRD#20#11#2#8#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#20#12
+HOST SQRD#20#11#2#8#Tomek
+HOST SQRD#20#12#2#8#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#21#12
+HOST SQRD#20#12#2#8#Tomek
+HOST SQRD#21#12#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#21#9
+HOST SQRD#21#12#-1#-4#Tomek
+HOST SQRD#21#9#2#8#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#21#10
+HOST SQRD#21#9#2#8#Tomek
+HOST SQRD#21#10#2#8#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#20#9
+HOST SQRD#21#10#2#8#Tomek
+HOST SQRD#20#9#2#8#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#19#9
+HOST SQRD#20#9#2#8#Tomek
+HOST SQRD#19#9#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#7#8
+HOST SQRD#19#9#-1#-4#Tomek
+HOST SQRD#7#8#-1#-4#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#19#10
+HOST SQRD#7#8#-1#-4#Kevin
+HOST SQRD#19#10#2#8#Tomek
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#5#8
+HOST SQRD#19#10#2#8#Tomek
+HOST SQRD#5#8#3#12#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#10#24
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#7#7
+HOST SQRD#5#8#3#12#Kevin
+HOST SQRD#7#7#2#8#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#27#4
+HOST SQRD#7#7#2#8#Kevin
+HOST SQRD#27#4#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#27#6
+HOST SQRD#27#4#-1#-4#Tomek
+HOST SQRD#27#6#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#24#8
+HOST SQRD#27#6#-1#-4#Tomek
+HOST SQRD#24#8#3#12#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#5#5
+HOST SQRD#24#8#3#12#Tomek
+HOST SQRD#5#5#-1#-4#Helmi
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#12
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#26#8
+HOST SQRD#5#5#-1#-4#Helmi
+HOST SQRD#26#8#1#4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#8#8
+HOST SQRD#26#8#1#4#Tomek
+HOST SQRD#8#8#4#16#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#8#7
+HOST SQRD#8#8#4#16#Kevin
+HOST SQRD#8#7#2#8#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#25#9
+HOST SQRD#8#7#2#8#Kevin
+HOST SQRD#25#9#1#4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#8#6
+HOST SQRD#25#9#1#4#Tomek
+HOST SQRD#8#6#1#4#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#25#9
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#24#9
+HOST SQRD#8#6#1#4#Kevin
+HOST SQRD#24#9#3#12#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#6#6
+HOST SQRD#24#9#3#12#Tomek
+HOST SQRD#6#6#2#8#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#23#9
+HOST SQRD#6#6#2#8#Kevin
+HOST SQRD#23#9#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#7#6
+HOST SQRD#23#9#-1#-4#Tomek
+HOST SQRD#7#6#1#4#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#23#10
+HOST SQRD#7#6#1#4#Kevin
+HOST SQRD#23#10#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#22#10
+HOST SQRD#23#10#-1#-4#Tomek
+HOST SQRD#22#10#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#22#9
+HOST SQRD#22#10#-1#-4#Tomek
+HOST SQRD#22#9#-1#-4#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#23#8
+HOST SQRD#22#9#-1#-4#Tomek
+HOST SQRD#23#8#4#16#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#6#5
+HOST SQRD#23#8#4#16#Tomek
+HOST SQRD#6#5#1#4#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#7#5
+HOST SQRD#6#5#1#4#Kevin
+HOST SQRD#7#5#0#4#Kevin
+HOST SQRD#7#4#1#4#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#alhassane#ll
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#5#6
+HOST SQRD#7#5#0#4#Kevin
+HOST SQRD#5#6#4#20#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#24
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#5#7
+HOST SQRD#5#6#4#20#Kevin
+HOST SQRD#5#7#4#20#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#10#6
+HOST SQRD#5#7#4#20#Kevin
+HOST SQRD#10#6#2#10#Helmi
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#25#10
+HOST SQRD#10#6#2#10#Helmi
+HOST SQRD#25#10#-1#-5#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#5#9
+HOST SQRD#25#10#-1#-5#Tomek
+j ai recu : CLIC#0#24
+HOST : je suis dans attente HOST 
+HOST SQRD#5#9#2#10#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#4#9
+HOST SQRD#5#9#2#10#Kevin
+HOST SQRD#4#9#2#10#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#10#10
+HOST SQRD#4#9#2#10#Kevin
+HOST SQRD#10#10#4#20#Helmi
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#19#8
+HOST SQRD#10#10#4#20#Helmi
+HOST SQRD#19#8#-1#-5#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#18#8
+HOST SQRD#19#8#-1#-5#Tomek
+HOST SQRD#18#8#2#10#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#18#9
+HOST SQRD#18#8#2#10#Tomek
+HOST SQRD#18#9#2#10#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#2
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#18#10
+HOST SQRD#18#9#2#10#Tomek
+HOST SQRD#18#10#3#15#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#11
+HOST SQRD#18#10#3#15#Tomek
+HOST SQRD#0#11#-1#-5#Somaya
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#18#11
+HOST SQRD#0#11#-1#-5#Somaya
+HOST SQRD#18#11#3#15#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#18#12
+HOST SQRD#18#11#3#15#Tomek
+HOST SQRD#18#12#-1#-5#Tomek
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#19#12
+HOST SQRD#18#12#-1#-5#Tomek
+HOST SQRD#19#12#2#10#Tomek
+HOST : je suis dans attente HOST 
+HOST : erreur lors de la lecture 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#12
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#12
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#2#0
+HOST SQRD#19#12#2#10#Tomek
+HOST SQRD#2#0#2#8#Somaya
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#1
+HOST SQRD#2#0#2#8#Somaya
+HOST SQRD#0#1#-1#-4#Somaya
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RQDT#none
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#21#6
+HOST SQRD#0#1#-1#-4#Somaya
+HOST SQRD#21#6#1#4#Kevin
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#BoGossDu93#lol
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+HOST : j ai recu : PLOK#BoGossDu93#0
+HOST : Je remplie la connextion 
+HOST : IN
+HOST : listeJoueur 0
+HOST : listeJoueur 1
+HOST : listeJoueur 2
+HOST : listeJoueur 3
+HOST : listeJoueur 4
+HOST : in 
+HOST : ajout joueur 
+HOST  : creation client
+pseudo : Somaya mdp : Benkhemis -> 70
+pseudo : Kevin mdp : Khau -> 40
+pseudo : alhassane mdp : ll -> 0
+pseudo : Tomek mdp : Lecocq -> 60
+pseudo : Helmi mdp : Zegaya -> 100
+pseudo : BoGossDu93 mdp : lol -> 0
+listJoueur pseudo : Somaya mdp : Benkhemis -> 70 true
+listJoueur pseudo : Kevin mdp : Khau -> 40 true
+listJoueur pseudo : Tomek mdp : Lecocq -> 60 true
+listJoueur pseudo : Helmi mdp : Zegaya -> 100 true
+listJoueur pseudo : BoGossDu93 mdp : lol -> 0 true
+listJoueur  true
+HOST : listeJoueur 5
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : JOIN#alhassane#ll
+HOST : s'enregistrer a la partie 
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : CLIC#1#0
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : erreur lors de la lecture 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : erreur lors de la lecture 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : CLIC#0#9
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+HOST : j ai recu : RUOK
+HOST : recu RUOK
+HOST  : Dans attente Serveur 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
+j ai recu : IMOK
+HOST : je suis dans attente HOST 
