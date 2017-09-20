@@ -4,6 +4,8 @@ import java.net.*;
 import java.util.* ; 
 import java.awt.event.*;
 import javax.swing.Timer ;
+
+import fr.nevarna.demineur.jeu.Demineur;
 public class Host {
     private int port ;
     private String IP ; 

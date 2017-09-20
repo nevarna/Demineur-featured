@@ -1,76 +1,69 @@
+package fr.nevarna.demineur.jeu;
 
-public class Case  {
-    private int valeur ; 
-    private int nbMines ; 
-    private boolean vu ; 
+import static fr.nevarna.demineur.jeu.Affichage.*;
 
-    public Case (){
-	this.valeur = 0 ;
-	this.nbMines = 0 ; 
-	this.vu = false ;
-    }
+/**
+ * Classe correspondant à une case du plateau
+ * @author nevarna
+ *
+ */
+public class Case {
+	private int nombrePoint;
+	private int nombreMinesAlentours;
+	private boolean decouvert;
+	private boolean estUneMine;
+	private CasePosition casePosition;
 
-    public void choisi (){
-	this.vu = true ; 
-    }
+	public static int VALEUR_BOMBE = -1;
 
-    public boolean presDuneMine(){
-	if (nbMines !=0){
-	    return true ; 
+	public Case(int x, int y) {
+		casePosition = new CasePosition(x, y);
 	}
-	return false ;
-    }
-    public String toString () {
-	String affich ="" ;
-	if(vu)
-	    affich += "t" ;
-	else 
-	    affich += "f";
-	affich +="|" +valeur + "|";
-	if(nbMines == -1 ) 
-	    affich += "B" ;
-	else 
-	    affich += nbMines  ; 
-	return affich ; 
-    }
 
-
-    public int point ( int multi ) {
-	if(nbMines == 0 ) 
-	    return multi ; 
-	else 
-	    return multi * nbMines  ; 
-    }
-
-    public String affich () {
-	String affich = "" ;
-	if (!vu){
-	    return "X" ; 
+	public void decouvrir() {
+		this.decouvert = true;
 	}
-	else
-	    affich += nbMines ;
-	return affich; 	
-    }
 
-    public void setMine () {
-	this.valeur = 1 ; 
-    }
+	public boolean presDuneMine() {
+		return nombreMinesAlentours != 0;
+	}
 
-    public boolean estMine() {
-	if(this.valeur == 1)
-	    return  true ;
-	return false ;
-    }
+	@Override
+	public String toString() {
+		return (decouvert ? TRUE : FALSE) + SEPARATEUR + nombrePoint + SEPARATEUR + (estUneMine ? BOMBE : nombreMinesAlentours);
+	}
 
-    public void setNbMine(int val){
-	this.nbMines = val ;
-	if (valeur == 1)
-	    this.nbMines = -1 ;  
-    }
+	public int pointGagner(int multiplieur) {
+		return nombreMinesAlentours == 0 ? multiplieur : multiplieur * nombreMinesAlentours;
+	}
 
+	public String affichageCase() {
+		return decouvert ? BOMBE : nombreMinesAlentours + "";
 
+	}
 
-    public boolean getVu () {
-	return this.vu ; 
-    }
+	public void setMine() {
+		estUneMine = true;
+		nombrePoint = 1;
+	}
+
+	public boolean estUneMine() {
+		return estUneMine;
+	}
+
+	public void setNombrePoint(int valeurCase) {
+		this.nombreMinesAlentours = estUneMine ? VALEUR_BOMBE : valeurCase;
+	}
+
+	public boolean getDecouvert() {
+		return this.decouvert;
+	}
+
+	public CasePosition getCasePosition() {
+		return casePosition;
+	}
+
+	public void setCasePosition(CasePosition casePosition) {
+		this.casePosition = casePosition;
+	}
 }
